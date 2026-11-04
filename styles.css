@@ -64,7 +64,7 @@ code {
     font-size: 0.95em;
 }
 
-/* Image Grid for the 3 Required Pictures */
+/* Image Grid */
 .image-grid {
     display: flex;
     gap: 1.5rem;
